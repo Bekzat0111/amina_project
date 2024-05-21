@@ -1,5 +1,5 @@
 <html>
-<html lang="kk">
+
 <head>
 
        <title>Jewelry Shop</title>
