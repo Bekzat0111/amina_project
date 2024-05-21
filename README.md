@@ -1,11 +1,4 @@
-<html>
 
-<head>
-
-       <title>Jewelry Shop</title>
-    <link rel="stylesheet" href="main.css">
-</head>
-<body>
     <header>
         <nav>
             <ul>
@@ -31,5 +24,4 @@
     <footer>
         <p>&copy; 2024 Jewelry Shop. Барлық құқықтар қорғалған.</p>
     </footer>
-</body>
-</html>
+
